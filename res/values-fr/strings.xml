@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Bon jour!</string>
+	<string name="goodbye">Au revoir!</string>
+	<string name="please">"S'il vous plaît"</string>
+	<string name="thankyou">Merci!</string>
+	<string name="help">Au Secours!</string>
+</resources>
