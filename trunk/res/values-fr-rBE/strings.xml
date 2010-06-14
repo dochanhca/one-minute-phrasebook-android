@@ -2,4 +2,5 @@
 <resources>
 	<string name="locale">Belgium</string>
 	<string name="cia_factbook_url">"https://www.cia.gov/library/publications/the-world-factbook/geos/be.html"</string>
+    <string name="map_location">"geo:0,0?q=Belgium"</string>
 </resources>

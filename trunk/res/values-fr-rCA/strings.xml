@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="locale">Canada</string>
-	<string name="cia_factbook_url">"https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html"</string>
+    <string
+        name="locale">Canada</string>
+    <string
+        name="cia_factbook_url">"https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html"
+    </string>
+    <string name="map_location">"google.streetview:cbll=46.813812,-71.207378&amp;cbp=1,99.56,,1,-5.27&amp;mz=21"</string>
 </resources>
