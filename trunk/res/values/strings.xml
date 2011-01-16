@@ -26,5 +26,5 @@
 	<string name="cia_factbook_label">CIA World Factbook URL: </string>
 	<string name="cia_factbook_url">"https://www.cia.gov/library/publications/the-world-factbook/index.html"</string>
 
-    <string name="map_location">geo:0,180?z=1</string>
+    <string name="map_location">geo:0,180?z=2</string>
 </resources>
